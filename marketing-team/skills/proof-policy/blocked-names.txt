@@ -1,0 +1,50 @@
+# Names that must never appear in public output without an explicit,
+# per-piece instruction from Josh. One per line. Case-insensitive.
+# voice-check.py fails any draft that contains these.
+# To approve a name for one piece: voice-check.py --allow-name "Name" file
+# Add every new client, prospect, partner and competitor here.
+
+# Clients (current and past)
+Checkmarx
+AppsFlyer
+monday.com
+monday services
+Cato Networks
+Point Five
+PointFive
+Abnormal
+Abnormal AI
+Abnormal Security
+Lili
+Lili Banking
+Limy
+AU10TIX
+groundcover
+Dealhub
+DealHub
+Cameo
+Cloudinary
+play.fast
+
+# Partners
+Klarivo
+
+# Competitors and adjacent vendors
+Foundation Inc
+Foundation Marketing
+Profound
+Powerplay
+Conductor
+Wiz
+Snyk
+Proofpoint
+Mimecast
+
+# Prospects / meetings
+BlackRock
+
+# Servayor training project (client, site, architect)
+Lidl
+Lidl Romford
+KLH
+KLH Architects
