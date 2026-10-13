@@ -1,0 +1,16 @@
+{
+  "name": "jk-hub24",
+  "owner": {
+    "name": "Josh Klawansky"
+  },
+  "metadata": {
+    "description": "Josh Klawansky's Claude Code plugins: the organic-first marketing team."
+  },
+  "plugins": [
+    {
+      "name": "marketing-team",
+      "source": "./marketing-team",
+      "description": "Organic-first marketing team for Nerativ, Frameworks, GEO Radar and Servayor."
+    }
+  ]
+}
