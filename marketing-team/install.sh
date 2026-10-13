@@ -2,8 +2,8 @@
 # Install the marketing team into ~/.claude so every Claude Code project on this
 # machine can use it. Re-run after pulling updates.
 #
-#   ./marketing-team/install.sh            copy (safe default)
-#   ./marketing-team/install.sh --link     symlink, edits here go live immediately
+#   bash marketing-team/install.sh            copy (safe default)
+#   bash marketing-team/install.sh --link     symlink, edits here go live immediately
 #
 # Prefer the plugin route when you can (see README). This script is for machines
 # where you'd rather not use the plugin marketplace.

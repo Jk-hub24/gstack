@@ -18,8 +18,8 @@ Then start a new session. Agents and skills show up as `marketing-team:*`.
 `/plugin marketplace update jk-hub24` pulls new versions.
 
 **Without the plugin system:** clone the repo and run
-`./marketing-team/install.sh` (copies into `~/.claude`) or
-`./marketing-team/install.sh --link` (symlinks, so edits here go live).
+`bash marketing-team/install.sh` (copies into `~/.claude`) or
+`bash marketing-team/install.sh --link` (symlinks, so edits here go live).
 
 ## Use it
 
